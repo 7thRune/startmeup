@@ -190,11 +190,13 @@
 
   $scope.reverseString = function(str)
   {
+    //return string in with all words and letters in reverse order i.e. "Bob the builder" becomse "redliub eht bob" 
     return str;
   };
 
   $scope.calcFibonacci = function(n)
   {
+    //return the nth number of a fibonacci sequence
     return 1;
   };
 
