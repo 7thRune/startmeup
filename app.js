@@ -122,9 +122,8 @@
 
     $scope.welcomeMessage = 
     [
-      "!5102 rof egnellahC etaudarG pU eM tratS eht ot emocleW",
-      ".ynablA ni desab buH ygolonhceT ruo fo ruot etavirp a sa llew sa ,senoJ llessuR renniW raeY eht fo OIC 1102 htiw aet gninrom evisulcxe na niw ot ward a otni og lliw egnellahc eht sehsinif ohw enoyreve :taerg era ,revewoh ,sdrawer ehT .gnignellahc erom ylevissergorp emoceb lliw snoitseuq eht ,denraw eb tub – yrtne ruoy etelpmoc ot selzzup cigol nuf fo seires a evlos ,niw ot ni eb oT",
-      ".liame aiv deifiton eb lliw dna yaM ts12 yadsruhT no etisbew eht no decnuonna eb lliw srenniW",
+      ".ynablA ni desab buH ygolonhceT s'BSA fo ruot etavirp a sa llew sa ,senoJ llessuR renniW raeY eht fo OIC 1102 htiw aet gninrom evisulcxe na niw ot ward a otni og lliw egnellahc eht sehsinif ohw enoyreve :taerg era ,revewoh ,sdrawer ehT .gnignellahc erom ylevissergorp emoceb lliw snoitseuq eht ,denraw eb tub – yrtne ruoy etelpmoc ot selzzup cigol nuf fo seires a evlos ,niw ot ni eb oT",
+      ".liame yb yaM ht82 yadsruhT no detcatnoc eb lliw srenniW",
       "trats tih dna eman lluf uoy retnE"
     ];
 
@@ -133,9 +132,9 @@
       " ?dne eht ni tfel evah uoy od seldnac ynam woh ,seldnac erom yna hsiugnitxe t'nseod dniw eht gnimussA .wodniw eht tuhs uoy ,tuo og semalf erom on erus ekam oT .tuo enog sah eldnac erom eno taht ees uoy ,retal seldnac eht no ni kcab gnikcehC .meht fo owt sehsiugnitxe dna wodniw nepo na hguorht ni swolb ezeerb gnorts A .moor gninid a ni gninrub dnats seldnac neT ",
       " ?enola tsoc skcos eht od hcum woH .skcos eht naht erom srallod 001 stsoc seohs ehT .021$ tsoc skcos fo riap a dna seohs fo riap A ",
       " ?'?' eht si tahW .89 ,? ,88 ,86 ,60 ,61 ",
-      " ?eman s'rethguad ht4 eht si tahW .enuJ ,yaM ,lirpA .rethguad 4 sah rehtaf s'yraM  ",
+      " ?eman s'rethguad ht4 eht s'tahW .enuJ ,yaM ,lirpA ,srethguad 4 sah rehtaf s'etaK",
       " .sekatsim etarucca yrev ,tsaf yrev ekam sretupmoC ",
-      " ?yadhtrib s'bob si yad tahW .raey a ni yad eno ylno eurt si sihT .82 eb lliw eh raey txen eht dna 52 saw boB yadretsey erofeb yad ehT ",
+      " ?yadhtrib s'boB si yad tahW .raey a ni yad eno ylno eurt si sihT .82 eb lliw eh raey txen eht dna 52 saw boB yadretsey erofeb yad ehT ",
       " ?smreg owt htiw detrats dah uoy fi raj eht llif ot ekat ti dluow setunim ni gnol woh ,siht gniwonK.ruoh eno yltcaxe ni raj elohw eht llif ot ylpitlum nac mreg elgnis a ,etar siht ta gniunitnoC .smreg ruof fo latot a gnimrof ,niaga tilps hcae smreg owt eht ,taht retfa etunim enO .smreg owt otni stilps mreg eht ,etunim eno retfA .mreg elgnis a sdloh raj ssalg A ",
       " ?htiw nigeb ot ereht erew ssalg fo seceip ynam woH .roolf eht no stnemgarf eerht llits erew ereht ,dne eht nI .meht erofeb tnew reveohw naht seceip erom eerht pu gnikcip hcae ,nrut ni dewollof sdneirf yM .seceip eerht tsrif eht pu dekcip I .sdneirf eerht ym htiw wodniw nekorb siht fo stnemgarf eht pu gninaelc ylluferac saw I  ",
       " ?snioc fo eerht tsuj  gnivom yb sdrawnwod tniop ot ti teg uoy nac woh nialpxe esaelP .elgnairt laretaliuqe gnitniop drawpu na mrof ot degnarra era snioc 01 ",
@@ -143,7 +142,7 @@
       " .gniklaw no peek si od ot evah ew lla ,noitcerid thgir eht ni gnicaf era ew fI  ",
       " ?yad eno fo esruoc eht revo wor a ni rebmun emas eht fo erom ro eerht yalpsid kcolc eht lliw semit ynam woH .woleb nwohs eno eht ekil kcolc latigid a enigamI ",
       " .emit yratilim no ton ,elacs ruoh-21 a no emit syalpsid elzzup siht ni kcolc eht ,gnirednow erew uoy esac nI  ",
-      " ? edoc taht ni nettirw DECUDORP si woH .NEVUASEDRT sa nettirw si SERUTNEVDA edoc niatrec a nI ",
+      " ?edoc taht ni nettirw NOITAVONNI si woH .XFNKNMGBDS sa nettirw si YGOLONHCET edoc niatrec a nI",
       " !niw eht rof skcirevaM sallaD ",
       " .yppah ro lufsseccus eb tonnac uoy srewop nwo ruoy ni ecnedifnoc elbanosaer tub elbmuh a tuohtiW !seitiliba ruoy ni htiaf evaH !flesruoy ni eveileB ",
       " ?retteb ppa siht ekam nac ew kniht uoy od woH ",
@@ -151,7 +150,7 @@
       " sboJ evetS– .efil s’esle enoemos gnivil ti etsaw t’nod os ,detimil si emit ruoY ",
       " ?noollab der a htiw emoh tnew sdik ynam woh ,siht gniwonK .noollab der a tog sdik eht fo emos ylno ,nerdlihc 01 fo ssalc a nI .noollab eulb a steg t'nseod reveohw dna ,noollab der a steg stah der gniraew elpoep erom ro ruof sees reveohW .gniraew era sdneirf ruoy lla stah eht ta kool dna seye ruoy nepo ,enoyreve ,KO :dias neht dna sdaeh rieht otno spac deppils ehs ,gnikool erew stneduts eht fo enon elihW .seye rieht esolc ssalc reh ni enoyreve dah rehcaet loohcserp A  ",
       " .retal tsevrah lliw uoy ,won tnalp uoy tahW .tseb ruoy od syawlA  ",
-      "  ?htiw etirw dlihc a lliw tahw ,'gab' dellac si 'reneprahs' dna ,'reneprahs' dellac si 'licnep' ,'licnep' dellac si 'xob' ,'xob' dellac si 'resare' fI  ",
+      " ?htiw epyt uoy lliw tahw ,'dractiderc' dellac si 'esabatad' dna ,'esabatad' dellac si 'draobyek' ,'draobyek' dellac si 'ifiw' ,'ifiw' dellac si 'yenom' fI",
       " .ht02 eht gnideeccus dna semit 91 gniliaf si ecnarevesreP ",
       " ?rotpursid hcet txen eht si eveileb uoy od tahW ",
       " brevorP esenihC– .won si emit tseb dnoces ehT .oga sraey 02 saw eert a tnalp ot emit tseb ehT ",
@@ -164,7 +163,7 @@
       " !hoD  ",
       " niawT kraM– .yhw tuo dnif uoy yad eht dna nrob era uoy yad eht era efil ruoy ni syad tnatropmi tsom owt ehT ",
       " trahraE ailemA– .yticanet ylerem si tser eht ,tca ot noisiced eht si gniht tluciffid tsom ehT ",
-      " si YRTNUOC YM EVOL I ecnetnes eht ni drow driht eht fo rettel tal eht fo edoc eht neht ,IAGSO CZ sa dedoc si KCIUQ EB fI  ",
+      " .si GNIMMARGORP EVOL I ecnetnes eht ni drow driht eht fo rettel tsrif eht fo edoc eht neht ,ABUGLC sa dedoc si NOHTYP fI",
       " otalP– .thgil eht fo diarfa era nem nehw si efil fo ydegart laer eht ;krad eht fo diarfa si ohw dlihc a evigrof ylisae nac eW ",
       " !ooooog ti teL !ooooog ti teL ",
       " .serutaef modnar spoleved tsuj tI .sgub sah reven erawtfos yM ",
