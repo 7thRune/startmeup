@@ -196,6 +196,9 @@
   $scope.calcFibonacci = function(n)
   {
     //return the nth number of a fibonacci sequence
+    //FYI [0] = 1st
+    //    [1] = 2nd
+    //    [5] = 6th
     return 1;
   };
 
