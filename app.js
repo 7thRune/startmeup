@@ -184,7 +184,7 @@
       " nosremE odlaW hplaR .tnemhsilpmocca tsetaerg eht si esle gnihtemos uoy ekam ot gniyrt yltnatsnoc si taht dlrow a ni flesruoy eb oT  ",
       " uolegnA ayaM– .yawa htaerb ruo ekat taht stnemom eht yb tub ,ekat ew shtaerb fo rebmun eht yb derusaem ton si efiL  ",
       " nietsniE treblA– .eulav fo eb ot rehtar tub ,sseccus a eb ot ton evirtS ",
-      " :yas ot dah sdarg ruof eseht tahw s'ereH ydnac s'yaR eta ydobemoS "
+      " :yas ot dah sdarg ruof eseht tahw s'ereH .ydnac s'yaR eta ydobemoS "
       ]
 
   $scope.reverseString = function(str)
