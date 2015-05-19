@@ -103,7 +103,10 @@
 						<h1 class="md-display-2">Riddle 2</h1>
 						<p>{{reverseString(quizQuestions[calcFibonacci(4)])}}</p>
                         <img class="coin-image" src="image/question.png"/>
-                        <input class="smu-answer-input" ng-model="data.answer2">
+                        <md-input-container flex>
+                            <label>Answer:</label>
+                            <input class="smu-answer-input" ng-model="data.answer2">
+                        </md-input-container>
                         <md-button class="md-raised md-warn smu-answer-button" ng-click="validateAnswer()">Next!</md-button>
 					</md-content>
 				</md-tab>
@@ -112,7 +115,10 @@
 						<h1 class="md-display-2">Riddle 3</h1>
 						<p>{{reverseString(quizQuestions[calcFibonacci(5)])}}</p>
                         <img class="coin-image" src="image/girl.png"/>
-                        <input class="smu-answer-input" ng-model="data.answer3">
+                        <md-input-container flex>
+                            <label>Answer:</label>
+                            <input class="smu-answer-input" ng-model="data.answer3">
+                        </md-input-container>
                         <md-button class="md-raised md-warn smu-answer-button" ng-click="validateAnswer()">Next!</md-button>
 					</md-content>
 				</md-tab>
@@ -121,7 +127,10 @@
                         <h1 class="md-display-2">Riddle 4</h1>
                         <p>{{reverseString(quizQuestions[calcFibonacci(6)])}}</p>
                         <img class="coin-image" src="image/age.png"/>
-                        <input class="smu-answer-input" ng-model="data.answer4">
+                        <md-input-container flex>
+                            <label>Answer:</label>
+                            <input class="smu-answer-input" ng-model="data.answer4">
+                        </md-input-container>
                         <md-button class="md-raised md-warn smu-answer-button" ng-click="validateAnswer()">Next!</md-button>
                     </md-content>
                 </md-tab>
